@@ -4,3 +4,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "hexo-theme-Journal"]
+	path = hexo-theme-Journal
+	url = https://github.com/sumimakito/hexo-theme-Journal.git
+[submodule "themes/chalk"]
+	path = themes/chalk
+	url = https://github.com/ph-ph/chalk.git
