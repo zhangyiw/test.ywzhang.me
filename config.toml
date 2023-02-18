@@ -1,4 +1,4 @@
-baseURL = 'http://ywzhang.me
+baseURL = 'http://ywzhang.me/'
 languageCode = 'zh-cn'
 title = 'Zhang Yiwu'
 theme = "hugo-coder"
